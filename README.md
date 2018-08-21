@@ -6,6 +6,9 @@ Begin: 21-08-2018</br>
 End: 26-08-2018</br>
 PDF: [The Power of Your Subconscious Mind ~ Dr. Joseph Murphy](https://www.law-of-attraction-haven.com/support-files/power-subconscious-mind.pdf)
 </br>
+Progress:</br>
+![Progress](http://progressed.io/bar/5?title=progress)
+</br>
 Notes:</br>
 1. The Power of Your Subconscious Mind ~ Dr. Joseph Murphy
 2. The 7 Habits of Highly Effective People ~ Stephen R Covey
